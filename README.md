@@ -1,16 +1,16 @@
-### Hi there 👋
+### Welcome to my Profile
 
-<!--
-**Pratham-Dave/Pratham-Dave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Pratham Dave and I am a:
+- Self-taught developer
+- Studing BSC- Computer Science(Second Year)
+- Fast - Learner
+- A Young develpoer ready to breeak in
+- Tech Enthusiast, gamer, health consious, adventurer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What am i currently learning?
+**Currently:**
+- CS50's Introduction to Artificial Intelligence with Python
+
+**Previously:**
+- CS50's Web development with Python and Javascript
