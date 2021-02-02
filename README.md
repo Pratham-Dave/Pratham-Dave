@@ -3,9 +3,9 @@
 
 My name is Pratham Dave and I am a:
 - Self-taught developer
-- Studing BSC- Computer Science(Second Year)
-- Fast - Learner
-- A Young develpoer ready to break in
+- Completing Bachelor's in Computer Science(Second Year)
+- Fast Learner
+- A Young developer ready to break in
 - Tech Enthusiast, gamer, health consious, adventurer.
 
 ### What am i currently learning?
@@ -14,3 +14,7 @@ My name is Pratham Dave and I am a:
 
 **Previously:**
 - CS50's Web development with Python and Javascript
+
+### What am i good at?.
+- Python
+- Javascript
